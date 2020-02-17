@@ -20,23 +20,23 @@ We recommend you join our mailing lists, as they are our primary means of commun
 
 #### General mailing lists
 
-* [announce@lists.chipsalliance.org](https://lists.chipsalliance.org/g/announce) <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - This is our main list for publishing CHIPS Alliance announcements, such as workshop notifications and other updates.  This is the best way to connect with us.
-* [technical-discuss@lists.chipsalliance.org](https://lists.chipsalliance.org/g/technical-discuss) <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - This is our main technical discussion list, for anything related to the Technical Steering Committee or for technical discussion with a scope beyond a single workgroup.
+* [announce@lists.chipsalliance.org](https://lists.chipsalliance.org/g/announce) [![][help]](tutorials/GROUPS.IO.md) - This is our main list for publishing CHIPS Alliance announcements, such as workshop notifications and other updates.  This is the best way to connect with us.
+* [technical-discuss@lists.chipsalliance.org](https://lists.chipsalliance.org/g/technical-discuss) [![][help]](tutorials/GROUPS.IO.md) - This is our main technical discussion list, for anything related to the Technical Steering Committee or for technical discussion with a scope beyond a single workgroup.
 
 #### Workgroup mailing lists
 
-* [chisel-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/chisel-wg)  <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - Chisel workgroup mailing list
-* [cores-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/cores-wg) <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - Cores workgroup mailing list
-* [interconnects-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/interconnects-wg) <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - Interconnects workgroup mailing list
-* [rocket-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/rocket-wg) <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - Rocket workgroup mailing list
-* [tools-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/tools-wg) <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - Tools workgroup mailing list
+* [chisel-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/chisel-wg) [![][help]](tutorials/GROUPS.IO.md) - Chisel workgroup mailing list
+* [cores-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/cores-wg) [![][help]](tutorials/GROUPS.IO.md) - Cores workgroup mailing list
+* [interconnects-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/interconnects-wg) [![][help]](tutorials/GROUPS.IO.md) - Interconnects workgroup mailing list
+* [rocket-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/rocket-wg) [![][help]](tutorials/GROUPS.IO.md) - Rocket workgroup mailing list
+* [tools-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/tools-wg) [![][help]](tutorials/GROUPS.IO.md) - Tools workgroup mailing list
 
 #### Member mailing lists
 
 In addition to the lists which are open to everyone, we have some special-purpose mailing lists for members and individual participants in the CHIPS Alliance.  If you work for a CHIPS Alliance member, or have completed the individual participant registration form, please visit these lists and apply for membership.
 
-* [members@lists.chipsalliance.org](https://lists.chipsalliance.org/g/members) <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - This is the main list for member information.
-* [marketing@lists.chipsalliance.org](https://lists.chipsalliance.org/g/marketing) <sup>[[?](tutorials/GROUPS.IO.md)]</sup> - This is the list for the CHIPS Alliance marketing committee, which is open to all members.
+* [members@lists.chipsalliance.org](https://lists.chipsalliance.org/g/members) [![][help]](tutorials/GROUPS.IO.md) - This is the main list for member information.
+* [marketing@lists.chipsalliance.org](https://lists.chipsalliance.org/g/marketing) [![][help]](tutorials/GROUPS.IO.md) - This is the list for the CHIPS Alliance marketing committee, which is open to all members.
 * We also maintain a legal mailing list for members' counsel to plan meeting times.  Contact [operations@chipsalliance.org](mailto:operations@chipsalliance.org) with the name of your in-house legal counsel so we can add them to the Legal Committee list and invite.
 
 ### Follow us on social
@@ -70,23 +70,23 @@ The TSC is comprised of technical representatives from CHIPS Alliance projects a
 
 ### Chisel Workgroup
 
-* Join the [Chisel Workgroup mailing list](https://lists.chipsalliance.org/g/chisel-wg/topics) <sup>[[?](tutorials/GROUPS.IO.md)]</sup>
+* Join the [Chisel Workgroup mailing list](https://lists.chipsalliance.org/g/chisel-wg/topics) [![][help]](tutorials/GROUPS.IO.md)
 
 ### Cores Workgroup
 
-* Join the [Cores Workgroup mailing list](https://lists.chipsalliance.org/g/cores-wg) <sup>[[?](tutorials/GROUPS.IO.md)]</sup>
+* Join the [Cores Workgroup mailing list](https://lists.chipsalliance.org/g/cores-wg) [![][help]](tutorials/GROUPS.IO.md)
 
 ### Interconnects Workgroup
 
-* Join the [Interconnects Workgroup mailing list](https://lists.chipsalliance.org/g/interconnects-wg) <sup>[[?](tutorials/GROUPS.IO.md)]</sup>
+* Join the [Interconnects Workgroup mailing list](https://lists.chipsalliance.org/g/interconnects-wg) [![][help]](tutorials/GROUPS.IO.md)
 
 ### Rocket Workgroup
 
-* Join the [Rocket Workgroup mailing list](https://lists.chipsalliance.org/g/rocket-wg) <sup>[[?](tutorials/GROUPS.IO.md)]</sup>
+* Join the [Rocket Workgroup mailing list](https://lists.chipsalliance.org/g/rocket-wg) [![][help]](tutorials/GROUPS.IO.md)
 
 ### Tools Workgroup
 
-* Join the [Tools Workgroup mailing list](https://lists.chipsalliance.org/g/tools-wg) <sup>[[?](tutorials/GROUPS.IO.md)]</sup>
+* Join the [Tools Workgroup mailing list](https://lists.chipsalliance.org/g/tools-wg) [![][help]](tutorials/GROUPS.IO.md)
 
 ## How to participate as a Member
 
@@ -134,3 +134,5 @@ Please send an email to [operations@chipsalliance.org](mailto:operations@chipsal
 * If you would like to become a member, email [membership@chipsalliance.org](mailto:membership@chipsalliance.org)
 * If you have a press inquiry, email [pr@chipsalliance.org](mailto:pr@chipsalliance.org)
 * If your question isn't covered by the above, email [info@chipsalliance.org](mailto:info@chipsalliance.org)
+
+[help]: https://raw.githubusercontent.com/mgielda/Font-Awesome-SVG-PNG/master/black/png/16/question-circle.png
