@@ -45,7 +45,7 @@ Follow us on our social channels: [Twitter](https://twitter.com/chipsalliance), 
 
 ### Join our Slack
 
-Join our [Slack](https://chipsalliance.slack.com).  You can [get an invite here](https://slack-invite.chipsalliance.org).
+Join our [Slack](https://slack.chipsalliance.org).
 
 ### Subscribe to our calendar
 
@@ -61,11 +61,11 @@ Participation in the development and decision-making process is open to anybody 
 
 ### About the Technical Steering Committee
 
-The TSC is governed by the [CHIPS Alliance Technical Charter](CHARTER.md).  The Charter provides the TSC a great deal of latitude to organize itself and its processes in such a way that benefits our technical communities.
+The TSC is governed by the [CHIPS Alliance Technical Charter](https://github.com/chipsalliance/tsc/CHARTER.md).  The Charter provides the TSC a great deal of latitude to organize itself and its processes in such a way that benefits our technical communities.
 
 The TSC is comprised of technical representatives from CHIPS Alliance projects and workgroups, and led by a chairperson.  All members of the technical community are welcome to subscribe to the TSC mailing list, and can participate in TSC meetings.
 
-* Join the [technical-discuss mailing list]()
+* Join the [technical-discuss mailing list](https://lists.chipsalliance.org/g/technical-discuss)
 * Join the [TSC Slack channel](https://chipsalliance.slack.com/archives/CN2GPL6TC) ([get a Slack invite](https://slack-invite.chipsalliance.org))
 
 ### Chisel Workgroup
@@ -105,7 +105,7 @@ Please contact [operations@chipsalliance.org](mailto:operations@chipsalliance.or
 
 The CHIPS Alliance is managed by a Governing Board, comprised of member representatives, the TSC chair, and the Marketing Committee chair.
 
-Although the Governing Board delegates day-to-day technical governance to the TSC, it is responsible for setting the high-level policies which govern our projects.  For example, the Governing Board works in close coordination with the Legal Committee to manage the [Participation Agreement](PARTICIPATION-AGREEMENT.md) and the [Technical Charter](CHARTER.md) (including the [IP Policy](CHARTER.md#8.-intellectual-property-policy).
+Although the Governing Board delegates day-to-day technical governance to the TSC, it is responsible for setting the high-level policies which govern our projects.  For example, the Governing Board works in close coordination with the Legal Committee to manage the [Participation Agreement](https://chipsalliance.org/join) and the [Technical Charter](https://github.com/chipsalliance/tsc/CHARTER.md) (including the [IP Policy](CHARTER.md#8.-intellectual-property-policy)).
 
 In addition, the Governing Board is responsible for managing the organization's budget.
 
