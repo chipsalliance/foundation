@@ -105,7 +105,7 @@ Please contact [operations@chipsalliance.org](mailto:operations@chipsalliance.or
 
 The CHIPS Alliance is managed by a Governing Board, comprised of member representatives, the TSC chair, and the Marketing Committee chair.
 
-Although the Governing Board delegates day-to-day technical governance to the TSC, it is responsible for setting the high-level policies which govern our projects.  For example, the Governing Board works in close coordination with the Legal Committee to manage the [Participation Agreement](PARTICIPATION-AGREEMENT.md) and the [Technical Charter](https://technical-charter.chipsalliance.org) (including the [IP Policy](https://technical-charter.chipsalliance.org/#7.-intellectual-property-policy).
+Although the Governing Board delegates day-to-day technical governance to the TSC, it is responsible for setting the high-level policies which govern our projects.  For example, the Governing Board works in close coordination with the Legal Committee to manage the [Participation Agreement](PARTICIPATION-AGREEMENT.md) and the [Technical Charter](https://technical-charter.chipsalliance.org) (including the [IP Policy](https://technical-charter.chipsalliance.org/#7.-intellectual-property-policy)).
 
 In addition, the Governing Board is responsible for managing the organization's budget.
 
