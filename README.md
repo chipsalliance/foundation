@@ -25,11 +25,7 @@ We recommend you join our mailing lists, as they are our primary means of commun
 
 #### Workgroup mailing lists
 
-* [chisel-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/chisel-wg) [![][help]](tutorials/GROUPS.IO.md) - Chisel workgroup mailing list
-* [cores-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/cores-wg) [![][help]](tutorials/GROUPS.IO.md) - Cores workgroup mailing list
-* [interconnects-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/interconnects-wg) [![][help]](tutorials/GROUPS.IO.md) - Interconnects workgroup mailing list
-* [rocket-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/rocket-wg) [![][help]](tutorials/GROUPS.IO.md) - Rocket workgroup mailing list
-* [tools-wg@lists.chipsalliance.org](https://lists.chipsalliance.org/g/tools-wg) [![][help]](tutorials/GROUPS.IO.md) - Tools workgroup mailing list
+See the [Workgroups page](https://www.chipsalliance.org/workgroups/) for details and links to mailing lists.
 
 #### Member mailing lists
 
