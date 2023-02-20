@@ -64,26 +64,6 @@ The TSC is comprised of technical representatives from CHIPS Alliance projects a
 * Join the [technical-discuss mailing list]()
 * Join the [TSC Slack channel](https://chipsalliance.slack.com/archives/CN2GPL6TC) ([get a Slack invite](https://slack-invite.chipsalliance.org))
 
-### Chisel Workgroup
-
-* Join the [Chisel Workgroup mailing list](https://lists.chipsalliance.org/g/chisel-wg/topics) [![][help]](tutorials/GROUPS.IO.md)
-
-### Cores Workgroup
-
-* Join the [Cores Workgroup mailing list](https://lists.chipsalliance.org/g/cores-wg) [![][help]](tutorials/GROUPS.IO.md)
-
-### Interconnects Workgroup
-
-* Join the [Interconnects Workgroup mailing list](https://lists.chipsalliance.org/g/interconnects-wg) [![][help]](tutorials/GROUPS.IO.md)
-
-### Rocket Workgroup
-
-* Join the [Rocket Workgroup mailing list](https://lists.chipsalliance.org/g/rocket-wg) [![][help]](tutorials/GROUPS.IO.md)
-
-### Tools Workgroup
-
-* Join the [Tools Workgroup mailing list](https://lists.chipsalliance.org/g/tools-wg) [![][help]](tutorials/GROUPS.IO.md)
-
 ## How to participate as a Member
 
 The CHIPS Alliance is a **member-supported** organization.  [Our members](https://chipsalliance.org/about/members) provide 100% of the financial support for our activities. Among other things, this enables us to provide operational, marketing, and legal support for our hosted projects, enables logisitical support for the ongoing operations of the Alliance, and allows us to host technical workshops to advance the state of the art of open hardware design.
